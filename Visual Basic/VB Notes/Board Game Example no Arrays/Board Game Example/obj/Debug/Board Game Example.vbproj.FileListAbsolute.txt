@@ -1,0 +1,52 @@
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\bin\Debug\Board Game Example.exe.config
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\bin\Debug\Board Game Example.exe
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\bin\Debug\Board Game Example.pdb
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\bin\Debug\Board Game Example.xml
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbprojAssemblyReference.cache
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Form1.resources
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Resources.resources
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbproj.GenerateResource.cache
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbproj.CoreCompileInputs.cache
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board Game Example.exe
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board Game Example.xml
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board Game Example.pdb
+O:\Math\M256\Visual Basic\1. Willis\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Form2.resources
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\bin\Debug\Board Game Example.exe.config
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\bin\Debug\Board Game Example.exe
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\bin\Debug\Board Game Example.pdb
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\bin\Debug\Board Game Example.xml
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbprojAssemblyReference.cache
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Form1.resources
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Form2.resources
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Resources.resources
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbproj.GenerateResource.cache
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbproj.CoreCompileInputs.cache
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.exe
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.xml
+H:\0.m256\VB\Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.pdb
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\bin\Debug\Board Game Example.exe.config
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\bin\Debug\Board Game Example.exe
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\bin\Debug\Board Game Example.pdb
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\bin\Debug\Board Game Example.xml
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbprojAssemblyReference.cache
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Form1.resources
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Form2.resources
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Resources.resources
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbproj.GenerateResource.cache
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbproj.CoreCompileInputs.cache
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board Game Example.exe
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board Game Example.xml
+O:\Math\M256\Visual Basic\Board Game Example\Board Game Example\obj\Debug\Board Game Example.pdb
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\bin\Debug\Board Game Example.exe.config
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\bin\Debug\Board Game Example.exe
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\bin\Debug\Board Game Example.pdb
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\bin\Debug\Board Game Example.xml
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Form1.resources
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Form2.resources
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board_Game_Example.Resources.resources
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.exe
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.xml
+H:\M.0256\Visual Basic\VB Notes\Board Game Example\Board Game Example\obj\Debug\Board Game Example.pdb

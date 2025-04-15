@@ -1,0 +1,37 @@
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.exe.config
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.exe
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.pdb
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.xml
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbprojAssemblyReference.cache
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race_Car_Rectangle_Template.Form1.resources
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race_Car_Rectangle_Template.Resources.resources
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbproj.GenerateResource.cache
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbproj.CoreCompileInputs.cache
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.exe
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.xml
+O:\Math\M256\OLD\Visual Basic Notes\1. Willis Visual Basic\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.pdb
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.exe.config
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.exe
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.pdb
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.xml
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race_Car_Rectangle_Template.Form1.resources
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race_Car_Rectangle_Template.Resources.resources
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.exe
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.xml
+H:\M.0256\Visual Basic\VB Notes\Race Car Rectangle Template\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.pdb
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.exe.config
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.exe
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.pdb
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\bin\Debug\Race Car Rectangle Template.xml
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbproj.AssemblyReference.cache
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbproj.SuggestedBindingRedirects.cache
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race_Car_Rectangle_Template.Form1.resources
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race_Car_Rectangle_Template.Resources.resources
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbproj.GenerateResource.cache
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.vbproj.CoreCompileInputs.cache
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.exe
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.xml
+D:\M.0256\Visual Basic\Completed Projects\Race Car\Race Car Rectangle Template\obj\Debug\Race Car Rectangle Template.pdb

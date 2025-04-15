@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hi</title>
+    <script>
+        var showing = true;
+
+        function Hide(){
+            if (showing==true){
+                document.getElementById("s").style.visibility="hidden";
+                document.getElementById("btn").innerHTML="Make img appear";
+                showing = false;
+            }
+            else {
+                document.getElementById("s").style.visibility="visible";
+                document.getElementById("btn").innerHTML="Make Img disappear";
+                showing = true;
+            }
+        }
+        function rNum(){
+            document.getElementById("p").innerHTML = Math.floor(Math.random()*10)
+            // * 10 = 0-9 *11 = 0-10 *10+1 = 1-10
+        }
+
+
+
+
+    </script>
+</head>
+<body>
+    <img src="Hola.jpg" alt="Tower" id="s">
+    <button id="btn" type="button" onclick="Hide()">Make Img disappear</button>
+    <br>
+    <button type="button" onclick="rNum()">Click to make rnum</button>
+    <p id="p"></p>
+</body>
+</html>

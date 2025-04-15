@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+    <script>
+        var nameArray=["David","Natalie","Sarah","Julia","Hey","Hi"]
+        function show(){
+            var idx=document.getElementById("index").value;
+            document.getElementById("myName").innerHTML=nameArray[idx]
+        }
+        function showAllNames(){
+            var output =""
+            for (var i=0 ; i<=5 ; i++){
+                output = output + nameArray[i] + ", "
+            }
+            document.getElementById("myName").innerHTML = output
+        }
+
+    </script>
+</head>
+<body>
+    <p>Enter a number between 0 and 5</p>
+    <input type="text" id="index">
+    <button type="button" onclick="show()">Show name from array</button>
+    <p id="myName"></p>
+    <button type="button" onclick="showAllNames()">Show all the names</button>
+</body>
+</html>

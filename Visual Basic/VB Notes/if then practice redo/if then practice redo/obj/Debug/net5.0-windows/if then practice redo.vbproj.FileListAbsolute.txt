@@ -1,0 +1,18 @@
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\bin\Debug\net5.0-windows\if then practice redo.exe
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\bin\Debug\net5.0-windows\if then practice redo.deps.json
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\bin\Debug\net5.0-windows\if then practice redo.runtimeconfig.json
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\bin\Debug\net5.0-windows\if then practice redo.runtimeconfig.dev.json
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\bin\Debug\net5.0-windows\if then practice redo.dll
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\bin\Debug\net5.0-windows\ref\if then practice redo.dll
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\bin\Debug\net5.0-windows\if then practice redo.pdb
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.vbproj.AssemblyReference.cache
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if_then_practice_redo.Form1.resources
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.vbproj.GenerateResource.cache
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.AssemblyInfoInputs.cache
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.AssemblyInfo.vb
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.vbproj.CoreCompileInputs.cache
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.dll
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\ref\if then practice redo.dll
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.pdb
+C:\Users\awillis\Desktop\if then practice redo\if then practice redo\obj\Debug\net5.0-windows\if then practice redo.genruntimeconfig.cache

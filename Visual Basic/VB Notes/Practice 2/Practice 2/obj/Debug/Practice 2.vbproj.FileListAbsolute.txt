@@ -1,0 +1,12 @@
+H:\M.0256\Visual Basic\Practice 2\Practice 2\bin\Debug\Practice 2.exe.config
+H:\M.0256\Visual Basic\Practice 2\Practice 2\bin\Debug\Practice 2.exe
+H:\M.0256\Visual Basic\Practice 2\Practice 2\bin\Debug\Practice 2.pdb
+H:\M.0256\Visual Basic\Practice 2\Practice 2\bin\Debug\Practice 2.xml
+H:\M.0256\Visual Basic\Practice 2\Practice 2\obj\Debug\Practice 2.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\Practice 2\Practice 2\obj\Debug\Practice_2.Form1.resources
+H:\M.0256\Visual Basic\Practice 2\Practice 2\obj\Debug\Practice_2.Resources.resources
+H:\M.0256\Visual Basic\Practice 2\Practice 2\obj\Debug\Practice 2.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\Practice 2\Practice 2\obj\Debug\Practice 2.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\Practice 2\Practice 2\obj\Debug\Practice 2.exe
+H:\M.0256\Visual Basic\Practice 2\Practice 2\obj\Debug\Practice 2.xml
+H:\M.0256\Visual Basic\Practice 2\Practice 2\obj\Debug\Practice 2.pdb

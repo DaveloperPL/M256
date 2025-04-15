@@ -1,0 +1,13 @@
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\bin\Debug\Day 1 practice.exe.config
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\bin\Debug\Day 1 practice.exe
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\bin\Debug\Day 1 practice.pdb
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\bin\Debug\Day 1 practice.xml
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day 1 practice.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day_1_practice.Form1.resources
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day_1_practice.Resources.resources
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day 1 practice.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day 1 practice.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day 1 practice.exe
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day 1 practice.xml
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day 1 practice.pdb
+H:\M.0256\Visual Basic\VB Notes\Day 1 practice\Day 1 practice\obj\Debug\Day_1_practice.Form2.resources

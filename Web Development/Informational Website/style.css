@@ -1,0 +1,148 @@
+body{
+    margin: 10px;
+}
+
+#minecraft{
+    background-image: url("Dirt.jpg");
+}
+nav {
+    overflow: hidden;
+    background-color: #333;
+    font-family: Arial;
+}
+
+/* Links inside the navbar */
+nav>a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+    float: left;
+    overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+nav a:hover, .dropdown:hover .dropbtn {
+    background-color: gray;
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+    background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+h1{
+    font-family: "Exo";
+    font-size: 50px;
+    text-align: center;
+    color: white;
+}
+h2{
+    font-family: "Exo";
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+.game>section>article{
+    border-style: solid;
+    border-radius: 50px;
+    width: 30%;
+    float: left;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+    box-shadow: 5px 5px 10px black;
+}
+.mp{
+    text-align: center;
+    font-family: "Exo";
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 18px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+#notch{
+    width: 50%;
+}
+.rblx{
+    border-style: solid;
+    border-radius: 50px;
+    width: 30%;
+    float: left;
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+    box-shadow: 5px 5px 10px black;
+}
+/*-- Making Videos fit in columns --*/
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    margin-bottom: 25px;
+}
+#title{
+    color: black;
+}
+/*-- Making columns wider for index--*/
+.main-page>section>article {
+    border-style: solid;
+    border-radius: 50px;
+    width: 45%;
+    float: left;
+    margin-right: 40px;
+    margin-left: 40px;
+    background-color: white;
+    box-shadow: 5px 5px 10px black;
+}
+#h1{
+    color: black;
+}

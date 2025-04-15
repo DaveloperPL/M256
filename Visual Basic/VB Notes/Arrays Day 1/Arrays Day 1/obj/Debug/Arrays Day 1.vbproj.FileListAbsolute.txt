@@ -1,0 +1,12 @@
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\bin\Debug\Arrays Day 1.exe.config
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\bin\Debug\Arrays Day 1.exe
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\bin\Debug\Arrays Day 1.pdb
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\bin\Debug\Arrays Day 1.xml
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\obj\Debug\Arrays Day 1.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\obj\Debug\Arrays_Day_1.Form1.resources
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\obj\Debug\Arrays_Day_1.Resources.resources
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\obj\Debug\Arrays Day 1.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\obj\Debug\Arrays Day 1.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\obj\Debug\Arrays Day 1.exe
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\obj\Debug\Arrays Day 1.xml
+H:\M.0256\Visual Basic\VB Notes\Arrays Day 1\Arrays Day 1\obj\Debug\Arrays Day 1.pdb

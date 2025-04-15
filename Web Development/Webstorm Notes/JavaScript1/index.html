@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+    <link rel="script" href="script.js">
+    <script>
+        function changeP(){
+            document.getElementById("snow").style.color = "blue";
+            document.getElementById("snow").innerHTML = "SNOW DAY";
+            document.getElementById("snow").style.border = "double";
+            document.getElementById("snow").style.margin = "100px";
+        }
+        function weekend(){
+            document.getElementById("tell").style.fontSize = "30px";
+            document.getElementById("tell").innerHTML = "It felt short, i did not really do anything";
+            document.getElementById("tell").style.color = "red";
+            document.getElementById("tell").style.padding = "100px";
+        }
+    </script>
+</head>
+<body>
+    <h1 id="tell">Example of interaction with Html elements</h1>
+    <p>Using button clicks for events</p>
+    <p id="snow">Are going to have a snow day this week?</p>
+    <button type="button" onclick="changeP()">Click Me</button>
+    <button type="button" onclick="weekend()">Click Me</button>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>More with Loops and Password</title>
+    <script>
+        function countFor(){
+            var output="";
+            var startNum=Number(TxtStartNum.value)
+            var endNum=Number(TxtEndNum.value)
+            var inc=Number(TxtIncrement.value)
+            if (inc>0){
+                for (var i=startNum; i<=endNum; i=i+inc){
+                    output = output + i + "<br>"
+                }
+            }else{
+                for (var i=startNum; i>=endNum; i=i+inc){
+                    output = output + i + "<br>"
+                }
+            }
+            document.getElementById("display").innerHTML=output;
+        }
+
+        function countWhile(){
+            var output="";
+            var startNum=Number(TxtStartNum.value)
+            var endNum=Number(TxtEndNum.value)
+            var inc=Number(TxtIncrement.value)
+
+            var loopCounter=startNum;
+
+            if (inc>0){
+                while (loopCounter<=endNum){
+                    output=output+loopCounter+"<br>";
+                    loopCounter=loopCounter+inc;
+                }
+                document.getElementById("display2").innerHTML=output;
+            }else {
+                while (loopCounter >= endNum) {
+                    output = output + loopCounter + "<br>";
+                    loopCounter = loopCounter + inc;
+                }
+                document.getElementById("display2").innerHTML = output;
+            }
+        }
+
+        function checkPassword(){
+            var pwGuess=prompt("Please enter your password.")
+            while (pwGuess!="password"){
+                alert("Incorrect")
+                pwGuess=prompt("Please enter your password.")
+            }
+            alert("welcome")
+        }
+    </script>
+</head>
+<body>
+
+    <form name="formCount">
+        STARTING NUMBER: <input type="text" id="TxtStartNum"> <br>
+        ENDING NUMBER: <input type="text" id="TxtEndNum"> <br>
+        INCREMENT: <input type="text" id="TxtIncrement"> <br>
+        <button type="button" onclick="countFor()">Count Using a For Loop</button>
+        <p id="display"></p>
+        <br>
+
+        <button type="button" onclick="countWhile()"> Count using a While Loop</button>
+        <p id="display2"></p>
+        <br>
+        <button type="button" onclick="checkPassword()"> Enter Password</button>
+        <p id="password"></p>
+    </form>
+</body>
+</html>

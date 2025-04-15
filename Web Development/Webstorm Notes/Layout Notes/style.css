@@ -1,0 +1,52 @@
+body{
+    background-color: aqua;
+}
+/* goal is to get rid of the bullet points just for nav bar*/
+.vertical>ul{
+    list-style: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.vertical{
+    border-style: double;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 4px 4px 2px black;
+    float: top;
+}
+.vertical>ul>li>a{
+    color: black;
+    padding: 10px;
+}
+.vertical>ul>li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 30px;
+}
+.vertical>ul>li>a:hover{
+    background-color: gray;
+}
+.x{
+    border-style: double;
+    margin-left: 150px;
+    margin-right: 150px;
+    float: left;
+    width: 25%;
+    /* text-align works for images too */
+    text-align: center;
+}
+footer{
+    clear: left;
+}
+.t{
+    margin-top: 450px;
+}
+#center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+

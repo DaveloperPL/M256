@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>hola</title>
+    <script>
+        var x;
+        x = 0;
+        var name = "David";
+        function showstuff(){
+            //x = 0; always resets x back to 0
+            x = x + 1;
+            alert(x)
+            // alerts are great for testing. DO NOT USE IN PROJECTS
+            alert(name + " you're # " + x)
+            if (x > 2){
+                document.getElementById("p").innerHTML="you are greater than 2"
+            }
+            else{
+                document.getElementById("p").innerHTML="too small"
+            }
+        }
+        function checkNumber(){
+            var ans = document.getElementById("Inp").value;
+            // Records my number and sets to var ans
+            // alert(ans);
+            if (ans == 10){
+                alert(ans + " is also my favorite number!")
+            }
+            else{
+                alert("Try again")
+            }
+        }
+
+    </script>
+</head>
+<body>
+    <button type="button" onclick="showstuff()">Click Me</button>
+    <p id="p"></p>
+    <p>Type your favorite number</p>
+    <input type="text" id="Inp">
+<button type="button" onclick="checkNumber()">Click to input favorite number</button>
+</body>
+</html>

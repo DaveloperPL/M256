@@ -1,0 +1,12 @@
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\bin\Debug\Computer With Paddle.exe.config
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\bin\Debug\Computer With Paddle.exe
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\bin\Debug\Computer With Paddle.pdb
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\bin\Debug\Computer With Paddle.xml
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\obj\Debug\Computer With Paddle.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\obj\Debug\Computer_With_Paddle.Form1.resources
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\obj\Debug\Computer_With_Paddle.Resources.resources
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\obj\Debug\Computer With Paddle.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\obj\Debug\Computer With Paddle.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\obj\Debug\Computer With Paddle.exe
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\obj\Debug\Computer With Paddle.xml
+H:\M.0256\Visual Basic\VB Notes\Computer With Paddle\Computer With Paddle\obj\Debug\Computer With Paddle.pdb

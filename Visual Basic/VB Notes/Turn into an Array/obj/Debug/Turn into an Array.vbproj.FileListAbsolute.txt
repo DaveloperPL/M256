@@ -1,0 +1,24 @@
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\bin\Debug\Turn into an Array.exe.config
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\bin\Debug\Turn into an Array.exe
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\bin\Debug\Turn into an Array.pdb
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\bin\Debug\Turn into an Array.xml
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\obj\Debug\Turn into an Array.vbprojAssemblyReference.cache
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\obj\Debug\Turn_into_an_Array.Form1.resources
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\obj\Debug\Turn_into_an_Array.Resources.resources
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\obj\Debug\Turn into an Array.vbproj.GenerateResource.cache
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\obj\Debug\Turn into an Array.vbproj.CoreCompileInputs.cache
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\obj\Debug\Turn into an Array.exe
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\obj\Debug\Turn into an Array.xml
+O:\Math\M256\Visual Basic\4. Fivelson\Turn into an Array\obj\Debug\Turn into an Array.pdb
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\bin\Debug\Turn into an Array.exe.config
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\bin\Debug\Turn into an Array.exe
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\bin\Debug\Turn into an Array.pdb
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\bin\Debug\Turn into an Array.xml
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\obj\Debug\Turn into an Array.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\obj\Debug\Turn_into_an_Array.Form1.resources
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\obj\Debug\Turn_into_an_Array.Resources.resources
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\obj\Debug\Turn into an Array.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\obj\Debug\Turn into an Array.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\obj\Debug\Turn into an Array.exe
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\obj\Debug\Turn into an Array.xml
+H:\M.0256\Visual Basic\VB Notes\Turn into an Array\obj\Debug\Turn into an Array.pdb

@@ -1,0 +1,13 @@
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\bin\Debug\VB recap day 1.exe.config
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\bin\Debug\VB recap day 1.exe
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\bin\Debug\VB recap day 1.pdb
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\bin\Debug\VB recap day 1.xml
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB recap day 1.vbprojAssemblyReference.cache
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB_recap_day_1.Form1.resources
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB_recap_day_1.Resources.resources
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB recap day 1.vbproj.GenerateResource.cache
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB recap day 1.vbproj.CoreCompileInputs.cache
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB recap day 1.exe
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB recap day 1.xml
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB recap day 1.pdb
+H:\M.0256\Webstorm\Webstorm Notes\VB recap day 1\VB recap day 1\obj\Debug\VB_recap_day_1.Form2.resources

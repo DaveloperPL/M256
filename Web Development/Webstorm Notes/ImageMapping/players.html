@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+    <script>
+        var pturn=1;
+        var num1;
+        var num2;
+        var p1 = 0;
+        var p2 = 0;
+
+
+        function changeTurn(){
+            pturn=pturn+1;
+            if (pturn>2){
+                pturn=1;
+            }
+            document.getElementById("p").innerHTML=pturn;
+        }
+        function checkAns(){
+            alert(num1+num2)
+            if (document.getElementById("ans").value == num1+num2){
+                if (pturn==1){
+                    p1=p1+1
+                    document.getElementById("1").innerHTML = p1
+                }else {
+                    p2 = p2 + 1
+                    document.getElementById("2").innerHTML = p1
+                }
+            }
+            changeTurn()
+            genQues()
+            document.getElementById("ans").value = ""
+        }
+        function genQues(){
+            num1=Math.floor(Math.random()*10+1);
+            num2=Math.floor(Math.random()*10+1);
+            document.getElementById("ques").innerHTML= num1 + " + " + num2;
+        }
+
+    </script>
+</head>
+<body>
+    <button type="button" onclick="changeTurn()">Change Turn</button>
+    <p>Who's turn is it?</p>
+    <p id="p">1</p>
+    <hr>
+    <p>Answer the following math question</p>
+    <button type="button" onclick="genQues()">Generate Math</button>
+    <p id="ques"></p>
+    <input type="text" id="ans">
+    <button type="button" onclick="checkAns()">Submit</button>
+    <h3>Points</h3>
+    <p id="1">0</p>
+    <p id="2">0</p>
+</body>
+</html>

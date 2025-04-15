@@ -1,0 +1,13 @@
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\bin\Debug\Board Game Day 1.exe.config
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\bin\Debug\Board Game Day 1.exe
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\bin\Debug\Board Game Day 1.pdb
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\bin\Debug\Board Game Day 1.xml
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board Game Day 1.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board_Game_Day_1.Form1.resources
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board_Game_Day_1.Resources.resources
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board Game Day 1.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board Game Day 1.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board Game Day 1.exe
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board Game Day 1.xml
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board Game Day 1.pdb
+H:\M.0256\Visual Basic\VB Notes\Board Game Day 1\Board Game Day 1\obj\Debug\Board_Game_Day_1.Form2.resources

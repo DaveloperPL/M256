@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Loops</title>
+    <script>
+        function countFor(){
+            var output = "I can count to ten! <br>"
+            output += "Here is counting to 10 using a for loop <br>";
+            for (var i=1; i<=10; i++){
+                output = output + i + "<br>"
+            }
+            document.getElementById("display").innerHTML = output
+        }
+
+        function countWhile(){
+            var output2 = 0;
+            var i = 0;
+            while (i<=10){
+                output2=output2+i +"<br>"
+                i++
+            }
+            document.getElementById("display2").innerHTML = output2
+        }
+
+    </script>
+</head>
+<body>
+    <h1> Working with Loops</h1>
+    <button type="button" onclick="countFor()"> Count using a For Loop</button>
+    <p id="display"></p>
+    <br>
+    <button type="button" onclick="countWhile()"> Count using a While Loop</button>
+    <p id="display2"></p>
+</body>
+</html>

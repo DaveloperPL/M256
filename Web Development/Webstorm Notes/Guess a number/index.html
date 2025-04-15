@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hi</title>
+    <script>
+        var rNum = Math.floor(Math.random()*51); //0-50
+        var g;
+
+
+        function checkRNum(){
+            g = document.getElementById("guess").innerHTML;
+            if (g<rNum) {
+                document.getElementById("check").innerHTML = "Too low";
+            }
+            else if (g>rNum){
+                document.getElementById("check").innerHTML = "Too high";
+            }
+            else{
+                document.getElementById("check").innerHTML = "Correct!";
+            }
+
+        }
+
+    </script>
+</head>
+<body>
+    <h1>guess a number between 0-50</h1>
+    <input type="text" id="guess">
+    <button type="button" onclick="checkRNum()">Check guess</button>
+    <p id="check"></p>
+    <p id="test">sfd</p>
+</body>
+</html>

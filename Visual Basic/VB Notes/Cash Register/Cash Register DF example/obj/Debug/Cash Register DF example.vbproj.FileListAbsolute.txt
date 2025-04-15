@@ -1,0 +1,36 @@
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\bin\Debug\Cash Register DF example.exe.config
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\bin\Debug\Cash Register DF example.exe
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\bin\Debug\Cash Register DF example.pdb
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\bin\Debug\Cash Register DF example.xml
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.vbprojAssemblyReference.cache
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\obj\Debug\Cash_Register_DF_example.Form1.resources
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\obj\Debug\Cash_Register_DF_example.Resources.resources
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.vbproj.GenerateResource.cache
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.vbproj.CoreCompileInputs.cache
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.exe
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.xml
+H:\Fivelson M256\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.pdb
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\bin\Debug\Cash Register DF example.exe.config
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\bin\Debug\Cash Register DF example.exe
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\bin\Debug\Cash Register DF example.pdb
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\bin\Debug\Cash Register DF example.xml
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.vbproj.AssemblyReference.cache
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\obj\Debug\Cash_Register_DF_example.Form1.resources
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\obj\Debug\Cash_Register_DF_example.Resources.resources
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.vbproj.GenerateResource.cache
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.vbproj.CoreCompileInputs.cache
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.exe
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.xml
+C:\Users\awillis\Desktop\Cash Register DF example\Cash Register DF example\obj\Debug\Cash Register DF example.pdb
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\bin\Debug\Cash Register DF example.exe.config
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\bin\Debug\Cash Register DF example.exe
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\bin\Debug\Cash Register DF example.pdb
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\bin\Debug\Cash Register DF example.xml
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\obj\Debug\Cash Register DF example.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\obj\Debug\Cash_Register_DF_example.Form1.resources
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\obj\Debug\Cash_Register_DF_example.Resources.resources
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\obj\Debug\Cash Register DF example.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\obj\Debug\Cash Register DF example.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\obj\Debug\Cash Register DF example.exe
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\obj\Debug\Cash Register DF example.xml
+H:\M.0256\Visual Basic\VB Notes\Cash Register\Cash Register DF example\obj\Debug\Cash Register DF example.pdb

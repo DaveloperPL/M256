@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image Mapping</title>
+    <script>
+        var capital;
+        var numCorrect=0
+        var numIncorrect=0
+        var pturn = 0;
+
+        function changeTurn() {
+            pturn=pturn+1
+            if (pturn>2){
+                pturn=1
+            }
+            document.getElementById("t").innerHTML=pturn
+        }
+
+        function IL() {
+            capital = document.getElementById("cap").value
+            if (capital.toLowerCase() == "springfield") {
+                document.getElementById("rw").innerHTML = "Right";
+                numCorrect = numCorrect + 1;
+                document.getElementById("c").innerHTML = numCorrect;
+            } else {
+                document.getElementById("rw").innerHTML = "Wrong";
+                numIncorrect = numIncorrect + 1;
+                document.getElementById("w").innerHTML = numIncorrect;
+            }
+        }
+        function CA() {
+            capital = document.getElementById("cap").value
+            if (capital.toLowerCase() == "sacramento") {
+                document.getElementById("rw").innerHTML = "Right";
+                numCorrect = numCorrect + 1;
+                document.getElementById("c").innerHTML = numCorrect;
+            } else {
+                document.getElementById("rw").innerHTML = "Wrong";
+                numIncorrect = numIncorrect + 1;
+                document.getElementById("w").innerHTML = numIncorrect;
+            }
+        }
+        function OR() {
+            capital = document.getElementById("cap").value
+            if (capital.toLowerCase() == "salem") {
+                document.getElementById("rw").innerHTML = "Right";
+                numCorrect = numCorrect + 1;
+                document.getElementById("c").innerHTML = numCorrect;
+            } else {
+                document.getElementById("rw").innerHTML = "Wrong";
+                numIncorrect = numIncorrect + 1;
+                document.getElementById("w").innerHTML = numIncorrect;
+            }
+        }
+    </script>
+</head>
+<body>
+<p>Put the capital in the input box and click on the state to check</p>
+<img src="us.jpg" usemap="#USA">
+<map name="USA">
+    <area target="" alt="" title="" coords="542,250,548,225,557,219,559,211,556,201,550,195,569,193,592,195,597,199,598,208,602,223,602,238,603,255,604,269,601,285,599,299,594,301,585,304,581,308,576,300,576,293,565,288,565,277,557,268,549,261,544,240" shape="poly" onclick="IL()">
+    <area target="" alt="" title="" coords="19,194,28,214,35,220,27,246,39,261,48,290,45,301,68,314,86,328,99,352,113,357,132,357,138,355,142,344,155,332,147,314,126,275,95,236,80,204,89,181,99,150,36,132,21,161" shape="poly" onclick="CA()">
+    <area target="" alt="" title="" coords="32,115,38,127,46,135,78,144,115,156,148,164,161,128,164,111,174,98,170,90,167,81,142,79,110,76,95,72,85,61,74,52,63,68,58,79,54,92,48,103,44,107" shape="poly" onclick="OR()">
+    <!--We Used image-map.net to find coordinates -->
+</map>
+<p>Turn</p>
+<p id="t">1</p>
+<p>Enter a state capital in the box below</p>
+<br>
+<h2 id="rw">Right Or Wrong</h2>
+<input type="text" id="cap">
+<h2>Number Correct</h2>
+<p id="c">0</p>
+<h2>Number Wrong</h2>
+<p id="w">0</p>
+</body>
+</html>

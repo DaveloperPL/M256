@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>JsProject 1</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="script" href="script.js">
+    <script src="script.js"></script>
+    </head>
+<body>
+    <table class="ta">
+        <th>Biology</th>
+        <th>Video Games</th>
+        <th>Computer Science</th>
+        <th>History</th>
+
+        <tr>
+            <td><button type="button" onclick="q1b(), cheat()" class="bt" id="1bbtn">100</button></td>
+            <td><button type="button" onclick="q1vg(), cheat()" class="bt" id="1vgbtn">100</button></td>
+            <td><button type="button" onclick="q1cs(), cheat()" class="bt" id="1csbtn">100</button></td>
+            <td><button type="button" onclick="q1h(), cheat()" class="bt" id="1hbtn">100</button></td>
+        </tr>
+        <tr>
+            <td><button type="button" onclick="q2b(), cheat()" class="bt" id="2bbtn">200</button></td>
+            <td><button type="button" onclick="q2vg(), cheat()" class="bt" id="2vgbtn">200</button></td>
+            <td><button type="button" onclick="q2cs(), cheat()" class="bt" id="2csbtn">200</button></td>
+            <td><button type="button" onclick="q2h(), cheat()" class="bt" id="2hbtn">200</button></td>
+        </tr>
+        <tr>
+            <td><button type="button" onclick="q3b(), cheat()" class="bt" id="3bbtn">300</button></td>
+            <td><button type="button" onclick="q3vg(), cheat()" class="bt" id="3vgbtn">300</button></td>
+            <td><button type="button" onclick="q3cs(), cheat()" class="bt" id="3csbtn">300</button></td>
+            <td><button type="button" onclick="q3h(), cheat()" class="bt" id="3hbtn">300</button></td>
+        </tr>
+    </table>
+    <table class="idk">
+        <h1>Points</h1>
+        <th>Player 1</th>
+        <th>Player 2</th>
+        <tr>
+            <td id="p1">0</td>
+            <td id="p2">0</td>
+        </tr>
+
+    </table>
+    <p id="p">‎</p>
+    <img src="" id="img">
+    <p id="t">Who's Turn Is it? = Player 1</p>
+    <input type="text" id="inp" class="ans">
+    <button type="button" onclick="check()" id="btn" class="ans">Submit</button>
+    <button type="button" onclick="cheatToggle()" id="cheatbtn">Cheat: Off</button>
+    <p id="cheating"></p>
+</body>
+</html>

@@ -1,0 +1,13 @@
+H:\M.0256\Visual Basic\Modules\Modules\bin\Debug\Modules.exe.config
+H:\M.0256\Visual Basic\Modules\Modules\bin\Debug\Modules.exe
+H:\M.0256\Visual Basic\Modules\Modules\bin\Debug\Modules.pdb
+H:\M.0256\Visual Basic\Modules\Modules\bin\Debug\Modules.xml
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.Form1.resources
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.Form2.resources
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.Resources.resources
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.exe
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.xml
+H:\M.0256\Visual Basic\Modules\Modules\obj\Debug\Modules.pdb

@@ -1,0 +1,27 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* i learned how to make a gradient */
+    background-image: linear-gradient(to bottom right, #9de4fc, #b495fc)
+}
+/* I learned how to import a font form google */
+.main{
+    color: black;
+    font-family: "Open Sans";
+    text-align: center;
+}
+.title{
+    font-size: 30px;
+}
+/* i learned how to make a column using margin and width and i learned how to make a shadow and how to curve the border */
+.column {
+    float: left;
+    position: relative;
+    width: 20%;
+    border: 1px solid black;
+    box-sizing: border-box;
+    margin: 50px;
+    background-color: white;
+    box-shadow: 5px 5px 4px #000000;
+    border-radius: 25px;
+}

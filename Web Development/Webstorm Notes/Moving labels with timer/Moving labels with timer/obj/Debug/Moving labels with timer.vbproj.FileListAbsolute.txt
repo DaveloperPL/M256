@@ -1,0 +1,12 @@
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\bin\Debug\Moving labels with timer.exe.config
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\bin\Debug\Moving labels with timer.exe
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\bin\Debug\Moving labels with timer.pdb
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\bin\Debug\Moving labels with timer.xml
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\obj\Debug\Moving labels with timer.vbprojAssemblyReference.cache
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\obj\Debug\Moving_labels_with_timer.Form1.resources
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\obj\Debug\Moving_labels_with_timer.Resources.resources
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\obj\Debug\Moving labels with timer.vbproj.GenerateResource.cache
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\obj\Debug\Moving labels with timer.vbproj.CoreCompileInputs.cache
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\obj\Debug\Moving labels with timer.exe
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\obj\Debug\Moving labels with timer.xml
+H:\M.0256\Webstorm\Webstorm Notes\Moving labels with timer\Moving labels with timer\obj\Debug\Moving labels with timer.pdb

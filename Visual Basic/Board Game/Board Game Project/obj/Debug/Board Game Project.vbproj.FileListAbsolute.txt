@@ -1,0 +1,14 @@
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\bin\Debug\Board Game Project.exe.config
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\bin\Debug\Board Game Project.exe
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\bin\Debug\Board Game Project.pdb
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\bin\Debug\Board Game Project.xml
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board Game Project.vbprojAssemblyReference.cache
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board_Game_Project.WelcomeScreen.resources
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board_Game_Project.Instructions.resources
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board_Game_Project.Resources.resources
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board Game Project.vbproj.GenerateResource.cache
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board Game Project.vbproj.CoreCompileInputs.cache
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board Game Project.exe
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board Game Project.xml
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board Game Project.pdb
+H:\M.0256\Visual Basic\Projects in Progress\Board Game Project\Board Game Project\obj\Debug\Board_Game_Project.Game.resources

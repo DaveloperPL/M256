@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Gradebook</title>
+    <script>
+        function checkGrade(){
+
+                var g = document.getElementById("inp").value;
+                if (g>=90){
+                    document.getElementById("myGrade").innerHTML = "A"
+                }
+                else if (g>=80){
+                    document.getElementById("myGrade").innerHTML = "B"
+                }
+                else if (g>=70){
+                    document.getElementById("myGrade").innerHTML = "C"
+                }
+                else if (g>=60){
+                    document.getElementById("myGrade").innerHTML = "D"
+                }
+                else {
+                    document.getElementById("myGrade").innerHTML = "F"
+                }
+        }
+    </script>
+</head>
+<body>
+    <p>Enter your # number grade from the test</p>
+    <input type="text" id="inp">
+    <button type="button" onclick="checkGrade()">Check Grade</button>
+    <p id="myGrade"></p>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
